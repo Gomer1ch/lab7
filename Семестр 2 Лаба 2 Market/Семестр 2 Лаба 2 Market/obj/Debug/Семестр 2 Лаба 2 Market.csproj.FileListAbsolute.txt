@@ -1,0 +1,21 @@
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\bin\Debug\Семестр 2 Лаба 2 Market.exe.config
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\bin\Debug\Семестр 2 Лаба 2 Market.exe
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\bin\Debug\Семестр 2 Лаба 2 Market.pdb
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.csprojAssemblyReference.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр_2_Лаба_2_Market.Form1.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр_2_Лаба_2_Market.Properties.Resources.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.csproj.GenerateResource.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.csproj.CoreCompileInputs.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.exe
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.pdb
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\bin\Debug\Семестр 2 Лаба 2 Market.exe.config
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\bin\Debug\Семестр 2 Лаба 2 Market.exe
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\bin\Debug\Семестр 2 Лаба 2 Market.pdb
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.csproj.AssemblyReference.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр_2_Лаба_2_Market.Form1.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр_2_Лаба_2_Market.Properties.Resources.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.csproj.GenerateResource.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.csproj.CoreCompileInputs.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.exe
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 2 Market\Семестр 2 Лаба 2 Market\obj\Debug\Семестр 2 Лаба 2 Market.pdb
